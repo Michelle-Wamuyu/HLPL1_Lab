@@ -1,5 +1,7 @@
 #include "std_lib_facilities.h"
 
+// - define a Date called 'today' initialized to June 25, 1978
+
 struct Date {
     int y;
     int m;
